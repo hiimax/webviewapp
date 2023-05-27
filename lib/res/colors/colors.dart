@@ -1,0 +1,21 @@
+import '../../res/import/import.dart';
+
+final Color webviewappPrimaryColor = Color(0xff262A56);
+final Color webviewappMainColor = Color(0xFFB8621B);
+final Color webviewappBlack = Colors.black;
+final Color webviewappGrey = Colors.grey;
+final Color webviewappPrimaryColor1 = Color(0xFF5F3A1D);
+final Color webviewappWhite = Colors.white;
+final Color webviewappBackgroundColor = Color(0xFFF8F7EF);
+final Color webviewappTextColor = Color(0xFF8A8A8A);
+final Color webviewappAppNavigationTextColor = Color(0xFF1E1E1E);
+final Color webviewappCustomButtonTextColor = Color(0xFFF2F1E6);
+final Color webviewappHintTextColor = Color(0xFFA9A9A9);
+final Color webviewappBlueColor = Color(0xFF1976D2);
+final Color webviewappPremiumColor = Color(0xFFFFC107);
+final Color webviewappPremium1Color = Color(0xFFD47403);
+final Color webviewappSnapTextColor = Color(0xFF4C4C4C);
+final Color webviewappTileColor = Color(0xFFE1D4B0);
+final Color webviewappMessageTileColor = Color(0xFF263238);
+final Color webviewappTextTileColor = Color(0xFFDADADA);
+final Color Transparent = Colors.transparent;
